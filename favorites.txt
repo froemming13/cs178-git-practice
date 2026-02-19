@@ -2,8 +2,11 @@ Name: Mikayla Froemming
 
 Age: 20
 
+Home State: Minnesota
+
 My favorite color is: Green
 
 My favorite animal is: Snake
 
 Major: Actuarial Science and Data Analytics
+
